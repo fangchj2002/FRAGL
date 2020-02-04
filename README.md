@@ -1,4 +1,12 @@
-if you use this code, please cite this paper:
+% Demo of "Fuzzy region-based active contours driven by weighting global and local fitting energy"(FRAGL) published  in IEEE Access
+
+% Jiangxiong Fang
+
+% East China University of Technology&&Nanchang University, Nanchang, China
+
+% 8th, May, 2019
+
+% Email: fangchj2002@163.com if you use the code, please cite the following paper.
 
 
 
